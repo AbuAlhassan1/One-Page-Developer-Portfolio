@@ -14,9 +14,9 @@ const portfolioConfig = {
     location: "San Francisco, CA",
     resumeLink: "resume.pdf",
     welcomeText: "👋 Welcome to my portfolio",
-    profileImage: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80"
+    profileImage: "https://avatars.githubusercontent.com/u/56271108?v=4"
   },
-  
+
   // Social Media Links
   socialMedia: {
     github: "https://github.com/yourusername",
@@ -24,7 +24,7 @@ const portfolioConfig = {
     twitter: "https://twitter.com/yourusername",
     instagram: "https://instagram.com/yourusername"
   },
-  
+
   // Theme Colors
   colors: {
     primary: {
@@ -37,7 +37,7 @@ const portfolioConfig = {
       dark: '#E95800',
     }
   },
-  
+
   // Light/Dark Mode Colors
   lightMode: {
     bgPrimary: '#ffffff',
@@ -53,7 +53,7 @@ const portfolioConfig = {
     button: '#FF6B00',
     buttonHover: '#FF8A3D',
   },
-  
+
   darkMode: {
     bgPrimary: '#111111',
     bgSecondary: '#1e1e1e',
@@ -68,7 +68,7 @@ const portfolioConfig = {
     button: '#FF6B00',
     buttonHover: '#E95800',
   },
-  
+
   // About Section
   about: {
     description: [
@@ -87,7 +87,7 @@ const portfolioConfig = {
       "HTML & CSS"
     ]
   },
-  
+
   // Projects
   projects: [
     {
@@ -124,7 +124,7 @@ const portfolioConfig = {
       featured: false
     }
   ],
-  
+
   // Skills
   skills: {
     categories: [
