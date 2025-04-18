@@ -6,12 +6,12 @@
 const portfolioConfig = {
   // Personal Information
   personalInfo: {
-    name: "Your Name",
+    name: "Hassan Basim",
     title: "Software Developer",
-    tagline: "I build things for the web",
-    email: "hello@example.com",
-    phone: "+1 (123) 456-7890",
-    location: "San Francisco, CA",
+    tagline: "I build Software for the Web and Mobile",
+    email: "abualhassanbasim@gmail.com",
+    phone: "+964 7812604050",
+    location: "Baghdad, Iraq",
     resumeLink: "resume.pdf",
     welcomeText: "👋 Welcome to my portfolio",
     profileImage: "https://avatars.githubusercontent.com/u/56271108?v=4"
@@ -19,10 +19,10 @@ const portfolioConfig = {
 
   // Social Media Links
   socialMedia: {
-    github: "https://github.com/yourusername",
-    linkedin: "https://linkedin.com/in/yourusername",
-    twitter: "https://twitter.com/yourusername",
-    instagram: "https://instagram.com/yourusername"
+    github: "https://github.com/AbuAlhassan1",
+    linkedin: "https://www.linkedin.com/in/abualhassanbasim/",
+    twitter: "",
+    instagram: "https://www.instagram.com/_0_0_hassan_0_0_/"
   },
 
   // Theme Colors
@@ -72,19 +72,23 @@ const portfolioConfig = {
   // About Section
   about: {
     description: [
-      "Hello! I'm a passionate software developer with experience in building web applications. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.",
+      "Hello! I'm a passionate software developer with experience in building web and mobile applications. I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.",
       "I'm passionate about crafting clean, maintainable code that solves real-world problems. With a focus on user experience and performance, I aim to create applications that are both functional and beautiful."
     ],
     experienceYears: "5+",
     education: {
       degree: "Computer Science",
-      university: "University Name"
+      university: "University of Technology"
     },
     coreTechnologies: [
       "JavaScript",
       "React",
       "Node.js",
-      "HTML & CSS"
+      "Vue.js",
+      "HTML & CSS",
+      "Dart",
+      "Flutter",
+      "C#",
     ]
   },
 
